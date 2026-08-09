@@ -1,0 +1,10 @@
+# Altium temporary & backup files
+History/
+Project Logs*/
+Project Outputs*/
+__History/
+*.PcbRpt
+*.htm
+*.LOG
+*.LDP
+*.SILKscreen
